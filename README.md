@@ -15,7 +15,7 @@ A messaging app that lets you send real-time photos, videos, texts
  9-User Profile <br/>
 10-Dark Mode Support 
 
-#Requirements
+# Requirements
 Xcode 10 <br/>
 Swift 5 <br/>
 Firebase
