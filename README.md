@@ -11,3 +11,10 @@ bilmim
 
 
 #bunu koyunca our bisa
+
+
+
+
+
+
+anlamadım
